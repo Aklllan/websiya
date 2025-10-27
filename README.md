@@ -1,7 +1,7 @@
 <em> # WEBSIYA BELIKA </em>
 Websiya tio 
 
-
+:construction: Proyecto en construcción :construction:
 # Vamos a Crear una websita bien sabrosa 👍
 
   con el host de gihub 
@@ -13,7 +13,7 @@ Websiya tio
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
-:construction: Proyecto en construcción :construction:
+
 
 ## Autores
-| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNHGBdRzTjIvG6GEDCPubd3pj4oihi2gBCA&s)" width=115><br><sub>Alan belico</sub>](https://github.com/Aklllan) | 
+| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNHGBdRzTjIvG6GEDCPubd3pj4oihi2gBCA&s" width=115><br><sub>Alan belico</sub>](https://github.com/Aklllan) | 
