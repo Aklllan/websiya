@@ -13,4 +13,7 @@ Websiya tio
 <p align="left">
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+:construction: Proyecto en construcción :construction:
+
+## Autores
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Alan belico</sub>](https://github.com/Aklllan) | 
