@@ -1,4 +1,4 @@
-<em> # WEBSIYA BELIKA </em>
+# WEBSIYA BELIKA 
 Websiya tio 
 
 :construction: Proyecto en construcción :construction:
@@ -15,5 +15,6 @@ Websiya tio
 </p>
 
 
-## Autores
+# Autores
 | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStNHGBdRzTjIvG6GEDCPubd3pj4oihi2gBCA&s" width=115><br><sub>Alan belico</sub>](https://github.com/Aklllan) | 
+
