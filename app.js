@@ -1,0 +1,1 @@
+document.getElementById("next").addEventListener("click", function() {window.open("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-95bOuHUU9FA3C0I_jP761U8HPbEgMWzUg&s")})
